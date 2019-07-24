@@ -1,0 +1,27 @@
+_repo: A-Selection-of-Books-Published-by-Methuen-and-Co-Ltd-London_59969
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Methuen & Co.
+    aliases:
+    - Co., Methuen &
+    - Company, Methuen &
+    - Methuen and Co.
+    gutenberg_agent_id: '6250'
+    url: http://www.gutenberg.org/2009/agents/6250
+  - agent_name: Co. Ltd.
+    gutenberg_agent_id: '50716'
+    url: http://www.gutenberg.org/2009/agents/50716
+description: ''
+gutenberg_issued: '2019-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Selection of Books Published by Methuen and Co. Ltd. London
+url: http://www.gutenberg.org/ebooks/59969
